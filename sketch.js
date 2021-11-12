@@ -556,7 +556,7 @@ function setup(){
         kil1.y=90;
         kil1.width=20;
         //////////////
-        winn.y=280;
+        winn.y=300;
         fc++;
       }
     }
